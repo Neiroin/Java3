@@ -1,0 +1,13 @@
+29.03.2018 20:39:24 [main] INFO  by.it.krukovich.Main.Main  - Starting programm-----------------------------------------
+29.03.2018 20:39:24 [main] INFO  by.it.krukovich.ConcreteCreators.CargoCreator  - Cargo plane created 
+29.03.2018 20:39:24 [main] INFO  by.it.krukovich.ConcreteCreators.MilitCreator  - Military plane created
+29.03.2018 20:39:24 [main] INFO  by.it.krukovich.ConcreteCreators.PassCreator  - Passenger plane created 
+29.03.2018 20:39:24 [main] INFO  by.it.krukovich.ConcreteCreators.MilitCreator  - Military plane created
+29.03.2018 20:39:24 [main] INFO  by.it.krukovich.Airport.Airport  - Airport National Airlines was created
+29.03.2018 20:39:24 [main] INFO  by.it.krukovich.Airport.Airport  - apach added into the airport National Airlines
+29.03.2018 20:39:24 [main] INFO  by.it.krukovich.Airport.Airport  - stels added into the airport National Airlines
+29.03.2018 20:39:24 [main] INFO  by.it.krukovich.Airport.Airport  - boing added into the airport National Airlines
+29.03.2018 20:39:24 [main] INFO  by.it.krukovich.Airport.Airport  - airstrike added into the airport National Airlines
+29.03.2018 20:39:24 [main] INFO  by.it.krukovich.Manager.Manager  - Sort completed
+29.03.2018 20:39:24 [main] INFO  by.it.krukovich.Airport.Airport  - Airport planes was showed
+29.03.2018 20:39:24 [main] INFO  by.it.krukovich.Main.Main  - End of the programm---------------------------------------

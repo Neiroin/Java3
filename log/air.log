@@ -1,0 +1,143 @@
+30.03.2018 09:16:37 [main] INFO  by.it.krukovich.Main.Main  - Starting programm-----------------------------------------
+30.03.2018 09:16:37 [main] INFO  by.it.krukovich.ConcreteCreators.CargoCreator  - Cargo plane created 
+30.03.2018 09:16:37 [main] INFO  by.it.krukovich.ConcreteCreators.MilitCreator  - Military plane created
+30.03.2018 09:16:37 [main] INFO  by.it.krukovich.ConcreteCreators.PassCreator  - Passenger plane created 
+30.03.2018 09:16:37 [main] INFO  by.it.krukovich.ConcreteCreators.MilitCreator  - Military plane created
+30.03.2018 09:16:37 [main] INFO  by.it.krukovich.Airport.Airport  - Airport National Airlines was created
+30.03.2018 09:16:37 [main] INFO  by.it.krukovich.Airport.Airport  - apach added into the airport National Airlines
+30.03.2018 09:16:37 [main] INFO  by.it.krukovich.Airport.Airport  - stels added into the airport National Airlines
+30.03.2018 09:16:37 [main] INFO  by.it.krukovich.Airport.Airport  - boing added into the airport National Airlines
+30.03.2018 09:16:37 [main] INFO  by.it.krukovich.Airport.Airport  - airstrike added into the airport National Airlines
+30.03.2018 09:16:37 [main] INFO  by.it.krukovich.Manager.Manager  - Sort completed
+30.03.2018 09:16:37 [main] INFO  by.it.krukovich.Airport.Airport  - Airport planes was showed
+30.03.2018 09:16:37 [main] INFO  by.it.krukovich.Main.Main  - End of the programm---------------------------------------
+30.03.2018 09:16:47 [main] INFO  by.it.krukovich.Main.Main  - Starting programm-----------------------------------------
+30.03.2018 09:16:47 [main] INFO  by.it.krukovich.ConcreteCreators.CargoCreator  - Cargo plane created 
+30.03.2018 09:16:47 [main] INFO  by.it.krukovich.ConcreteCreators.MilitCreator  - Military plane created
+30.03.2018 09:16:47 [main] INFO  by.it.krukovich.ConcreteCreators.PassCreator  - Passenger plane created 
+30.03.2018 09:16:47 [main] INFO  by.it.krukovich.ConcreteCreators.MilitCreator  - Military plane created
+30.03.2018 09:16:47 [main] INFO  by.it.krukovich.Airport.Airport  - Airport National Airlines was created
+30.03.2018 09:16:47 [main] INFO  by.it.krukovich.Airport.Airport  - apach added into the airport National Airlines
+30.03.2018 09:16:47 [main] INFO  by.it.krukovich.Airport.Airport  - stels added into the airport National Airlines
+30.03.2018 09:16:47 [main] INFO  by.it.krukovich.Airport.Airport  - boing added into the airport National Airlines
+30.03.2018 09:16:47 [main] INFO  by.it.krukovich.Airport.Airport  - airstrike added into the airport National Airlines
+30.03.2018 09:16:47 [main] INFO  by.it.krukovich.Manager.Manager  - Sort completed
+30.03.2018 09:16:47 [main] INFO  by.it.krukovich.Airport.Airport  - Airport planes was showed
+30.03.2018 09:16:47 [main] INFO  by.it.krukovich.Main.Main  - End of the programm---------------------------------------
+30.03.2018 09:18:31 [main] INFO  by.it.krukovich.Main.Main  - Starting programm-----------------------------------------
+30.03.2018 09:18:31 [main] INFO  by.it.krukovich.ConcreteCreators.CargoCreator  - Cargo plane created 
+30.03.2018 09:18:31 [main] INFO  by.it.krukovich.ConcreteCreators.MilitCreator  - Military plane created
+30.03.2018 09:18:31 [main] INFO  by.it.krukovich.ConcreteCreators.PassCreator  - Passenger plane created 
+30.03.2018 09:18:31 [main] INFO  by.it.krukovich.ConcreteCreators.MilitCreator  - Military plane created
+30.03.2018 09:18:31 [main] INFO  by.it.krukovich.Airport.Airport  - Airport National Airlines was created
+30.03.2018 09:18:31 [main] INFO  by.it.krukovich.Airport.Airport  - apach added into the airport National Airlines
+30.03.2018 09:18:31 [main] INFO  by.it.krukovich.Airport.Airport  - stels added into the airport National Airlines
+30.03.2018 09:18:31 [main] INFO  by.it.krukovich.Airport.Airport  - boing added into the airport National Airlines
+30.03.2018 09:18:31 [main] INFO  by.it.krukovich.Airport.Airport  - airstrike added into the airport National Airlines
+30.03.2018 09:18:31 [main] INFO  by.it.krukovich.Manager.Manager  - Sort completed order by ascending
+30.03.2018 09:18:31 [main] INFO  by.it.krukovich.Airport.Airport  - Airport planes was showed
+30.03.2018 09:18:31 [main] INFO  by.it.krukovich.Main.Main  - End of the programm---------------------------------------
+30.03.2018 13:58:23 [main] INFO  by.it.krukovich.Main.Main  - Starting programm-----------------------------------------
+30.03.2018 13:58:23 [main] INFO  by.it.krukovich.ConcreteCreators.CargoCreator  - Cargo plane created 
+30.03.2018 13:58:23 [main] INFO  by.it.krukovich.ConcreteCreators.MilitCreator  - Military plane created
+30.03.2018 13:58:23 [main] INFO  by.it.krukovich.ConcreteCreators.PassCreator  - Passenger plane created 
+30.03.2018 13:58:23 [main] INFO  by.it.krukovich.ConcreteCreators.MilitCreator  - Military plane created
+30.03.2018 13:58:23 [main] INFO  by.it.krukovich.Airport.Airport  - Airport National Airlines was created
+30.03.2018 13:58:23 [main] INFO  by.it.krukovich.Airport.Airport  - apach added into the airport National Airlines
+30.03.2018 13:58:23 [main] INFO  by.it.krukovich.Airport.Airport  - stels added into the airport National Airlines
+30.03.2018 13:58:23 [main] INFO  by.it.krukovich.Airport.Airport  - boing added into the airport National Airlines
+30.03.2018 13:58:23 [main] INFO  by.it.krukovich.Airport.Airport  - airstrike added into the airport National Airlines
+30.03.2018 13:58:23 [main] INFO  by.it.krukovich.Manager.Manager  - Sort completed order by ascending
+30.03.2018 13:58:23 [main] INFO  by.it.krukovich.Airport.Airport  - Airport planes was showed
+30.03.2018 13:58:23 [main] INFO  by.it.krukovich.Main.Main  - End of the programm---------------------------------------
+30.03.2018 14:00:42 [main] INFO  by.it.krukovich.Main.Main  - Starting programm-----------------------------------------
+30.03.2018 14:00:42 [main] INFO  by.it.krukovich.ConcreteCreators.CargoCreator  - Cargo plane created 
+30.03.2018 14:00:42 [main] INFO  by.it.krukovich.ConcreteCreators.MilitCreator  - Military plane created
+30.03.2018 14:00:42 [main] INFO  by.it.krukovich.ConcreteCreators.PassCreator  - Passenger plane created 
+30.03.2018 14:00:42 [main] INFO  by.it.krukovich.ConcreteCreators.MilitCreator  - Military plane created
+30.03.2018 14:00:42 [main] INFO  by.it.krukovich.Airport.Airport  - Airport National Airlines was created
+30.03.2018 14:00:42 [main] INFO  by.it.krukovich.Airport.Airport  - apach added into the airport National Airlines
+30.03.2018 14:00:42 [main] INFO  by.it.krukovich.Airport.Airport  - stels added into the airport National Airlines
+30.03.2018 14:00:42 [main] INFO  by.it.krukovich.Airport.Airport  - boing added into the airport National Airlines
+30.03.2018 14:00:42 [main] INFO  by.it.krukovich.Airport.Airport  - airstrike added into the airport National Airlines
+30.03.2018 14:00:42 [main] INFO  by.it.krukovich.Manager.Manager  - Sort completed order by ascending
+30.03.2018 14:00:42 [main] INFO  by.it.krukovich.Airport.Airport  - Plane id: 1 lenght: 14 weight: 52 max range: 1500 model: apach
+30.03.2018 14:00:42 [main] INFO  by.it.krukovich.Airport.Airport  - Plane id: 3 lenght: 30 weight: 70 max range: 1800 model: boing
+30.03.2018 14:00:42 [main] INFO  by.it.krukovich.Airport.Airport  - Plane id: 2 lenght: 7 weight: 40 max range: 2000 model: stels
+30.03.2018 14:00:42 [main] INFO  by.it.krukovich.Airport.Airport  - Plane id: 4 lenght: 15 weight: 35 max range: 4000 model: airstrike
+30.03.2018 14:00:42 [main] INFO  by.it.krukovich.Airport.Airport  - Airport planes was showed
+30.03.2018 14:00:42 [main] INFO  by.it.krukovich.Main.Main  - End of the programm---------------------------------------
+30.03.2018 14:11:31 [main] INFO  by.it.krukovich.Main.Main  - Starting programm-----------------------------------------
+30.03.2018 14:11:31 [main] INFO  by.it.krukovich.ConcreteCreators.CargoCreator  - Cargo plane created 
+30.03.2018 14:11:31 [main] INFO  by.it.krukovich.ConcreteCreators.MilitCreator  - Military plane created
+30.03.2018 14:11:31 [main] INFO  by.it.krukovich.ConcreteCreators.PassCreator  - Passenger plane created 
+30.03.2018 14:11:31 [main] INFO  by.it.krukovich.ConcreteCreators.MilitCreator  - Military plane created
+30.03.2018 14:11:31 [main] INFO  by.it.krukovich.Airport.Airport  - Airport National Airlines was created
+30.03.2018 14:11:31 [main] INFO  by.it.krukovich.Airport.Airport  - apach added into the airport National Airlines
+30.03.2018 14:11:31 [main] INFO  by.it.krukovich.Airport.Airport  - stels added into the airport National Airlines
+30.03.2018 14:11:31 [main] INFO  by.it.krukovich.Airport.Airport  - boing added into the airport National Airlines
+30.03.2018 14:11:31 [main] INFO  by.it.krukovich.Airport.Airport  - airstrike added into the airport National Airlines
+30.03.2018 14:11:31 [main] INFO  by.it.krukovich.Manager.Manager  - Sort completed order by ascending
+30.03.2018 14:11:31 [main] INFO  by.it.krukovich.Airport.Airport  - Plane id: 1 lenght: 14 weight: 52 max range: 1500 model: apach
+30.03.2018 14:11:31 [main] INFO  by.it.krukovich.Airport.Airport  - Plane id: 3 lenght: 30 weight: 70 max range: 1800 model: boing
+30.03.2018 14:11:31 [main] INFO  by.it.krukovich.Airport.Airport  - Plane id: 2 lenght: 7 weight: 40 max range: 2000 model: stels
+30.03.2018 14:11:31 [main] INFO  by.it.krukovich.Airport.Airport  - Plane id: 4 lenght: 15 weight: 35 max range: 4000 model: airstrike
+30.03.2018 14:11:31 [main] INFO  by.it.krukovich.Airport.Airport  - Airport planes was showed
+30.03.2018 14:11:31 [main] INFO  by.it.krukovich.Main.Main  - End of the programm---------------------------------------
+30.03.2018 14:16:36 [main] INFO  by.it.krukovich.Main.Main  - Starting programm-----------------------------------------
+30.03.2018 14:16:36 [main] INFO  by.it.krukovich.ConcreteCreators.CargoCreator  - Cargo plane created 
+30.03.2018 14:16:36 [main] INFO  by.it.krukovich.ConcreteCreators.MilitCreator  - Military plane created
+30.03.2018 14:16:36 [main] INFO  by.it.krukovich.ConcreteCreators.PassCreator  - Passenger plane created 
+30.03.2018 14:16:36 [main] INFO  by.it.krukovich.ConcreteCreators.MilitCreator  - Military plane created
+30.03.2018 14:16:36 [main] INFO  by.it.krukovich.Airport.Airport  - Airport National Airlines was created
+30.03.2018 14:16:36 [main] INFO  by.it.krukovich.Airport.Airport  - apach added into the airport National Airlines
+30.03.2018 14:16:36 [main] INFO  by.it.krukovich.Airport.Airport  - stels added into the airport National Airlines
+30.03.2018 14:16:36 [main] INFO  by.it.krukovich.Airport.Airport  - boing added into the airport National Airlines
+30.03.2018 14:16:36 [main] INFO  by.it.krukovich.Airport.Airport  - airstrike added into the airport National Airlines
+30.03.2018 14:16:36 [main] INFO  by.it.krukovich.Manager.Manager  - Sort completed order by ascending
+30.03.2018 14:16:36 [main] INFO  by.it.krukovich.Airport.Airport  - Plane id: 1 lenght: 14 weight: 52 max range: 1500 model: apach
+30.03.2018 14:16:36 [main] INFO  by.it.krukovich.Airport.Airport  - Plane id: 3 lenght: 30 weight: 70 max range: 1800 model: boing
+30.03.2018 14:16:36 [main] INFO  by.it.krukovich.Airport.Airport  - Plane id: 2 lenght: 7 weight: 40 max range: 2000 model: stels
+30.03.2018 14:16:36 [main] INFO  by.it.krukovich.Airport.Airport  - Plane id: 4 lenght: 15 weight: 35 max range: 4000 model: airstrike
+30.03.2018 14:16:36 [main] INFO  by.it.krukovich.Airport.Airport  - Airport planes was showed
+30.03.2018 14:16:36 [main] INFO  by.it.krukovich.Manager.Manager  - Search completed
+30.03.2018 14:16:36 [main] INFO  by.it.krukovich.Main.Main  - End of the programm---------------------------------------
+30.03.2018 14:17:24 [main] INFO  by.it.krukovich.Main.Main  - Starting programm-----------------------------------------
+30.03.2018 14:17:24 [main] INFO  by.it.krukovich.ConcreteCreators.CargoCreator  - Cargo plane created 
+30.03.2018 14:17:24 [main] INFO  by.it.krukovich.ConcreteCreators.MilitCreator  - Military plane created
+30.03.2018 14:17:24 [main] INFO  by.it.krukovich.ConcreteCreators.PassCreator  - Passenger plane created 
+30.03.2018 14:17:24 [main] INFO  by.it.krukovich.ConcreteCreators.MilitCreator  - Military plane created
+30.03.2018 14:17:24 [main] INFO  by.it.krukovich.Airport.Airport  - Airport National Airlines was created
+30.03.2018 14:17:24 [main] INFO  by.it.krukovich.Airport.Airport  - apach added into the airport National Airlines
+30.03.2018 14:17:24 [main] INFO  by.it.krukovich.Airport.Airport  - stels added into the airport National Airlines
+30.03.2018 14:17:24 [main] INFO  by.it.krukovich.Airport.Airport  - boing added into the airport National Airlines
+30.03.2018 14:17:24 [main] INFO  by.it.krukovich.Airport.Airport  - airstrike added into the airport National Airlines
+30.03.2018 14:17:24 [main] INFO  by.it.krukovich.Manager.Manager  - Sort completed order by ascending
+30.03.2018 14:17:24 [main] INFO  by.it.krukovich.Airport.Airport  - Plane id: 1 lenght: 14 weight: 52 max range: 1500 model: apach
+30.03.2018 14:17:24 [main] INFO  by.it.krukovich.Airport.Airport  - Plane id: 3 lenght: 30 weight: 70 max range: 1800 model: boing
+30.03.2018 14:17:24 [main] INFO  by.it.krukovich.Airport.Airport  - Plane id: 2 lenght: 7 weight: 40 max range: 2000 model: stels
+30.03.2018 14:17:24 [main] INFO  by.it.krukovich.Airport.Airport  - Plane id: 4 lenght: 15 weight: 35 max range: 4000 model: airstrike
+30.03.2018 14:17:24 [main] INFO  by.it.krukovich.Airport.Airport  - Airport planes was showed
+30.03.2018 14:17:24 [main] INFO  by.it.krukovich.Manager.Manager  - Search completed
+30.03.2018 14:17:24 [main] INFO  by.it.krukovich.Main.Main  - End of the programm---------------------------------------
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.Main.Main  - Starting programm-----------------------------------------
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.ConcreteCreators.CargoCreator  - Cargo plane created 
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.ConcreteCreators.MilitCreator  - Military plane created
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.ConcreteCreators.PassCreator  - Passenger plane created 
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.ConcreteCreators.MilitCreator  - Military plane created
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.Airport.Airport  - Airport National Airlines was created
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.Airport.Airport  - apach added into the airport National Airlines
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.Airport.Airport  - stels added into the airport National Airlines
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.Airport.Airport  - boing added into the airport National Airlines
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.Airport.Airport  - airstrike added into the airport National Airlines
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.Manager.Manager  - Sort completed order by ascending
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.Airport.Airport  - Plane id: 1 lenght: 14 weight: 52 max range: 1500 model: apach
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.Airport.Airport  - Plane id: 3 lenght: 30 weight: 70 max range: 1800 model: boing
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.Airport.Airport  - Plane id: 2 lenght: 7 weight: 40 max range: 2000 model: stels
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.Airport.Airport  - Plane id: 4 lenght: 15 weight: 35 max range: 4000 model: airstrike
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.Airport.Airport  - Airport planes was showed
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.Manager.Manager  - Search results: 
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.Manager.Manager  - Plane id: 3 lenght: 30 weight: 70 max range: 1800 model: boing
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.Manager.Manager  - Plane id: 4 lenght: 15 weight: 35 max range: 4000 model: airstrike
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.Manager.Manager  - Search completed
+30.03.2018 14:18:49 [main] INFO  by.it.krukovich.Main.Main  - End of the programm---------------------------------------
